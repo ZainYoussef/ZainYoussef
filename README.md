@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi there! I'm Zain Yousef, a passionate Cloud Engineer and Full-Stack Developer with a love for building innovative solutions and exploring emerging technologies. I enjoy working on projects that challenge me to grow, especially in cloud computing, security, and web development.<br>🌱 Currently learning: Web application security testing, React, Node.js and MongoDB<br>💻 Favorite tech stack: React, Node.js, Express, MongoDB, MySQL, and Google Cloud Platform<br>🎓 Certifications: Google Cloud Associate Cloud Engineer | Professional Cloud Architect (Cloud DevOps Engineer — coming soon! 😊)<br>📫 How to reach me: You can find me on Facebook, Twitter (X), or LinkedIn—I’m always around and happy to connect!<br>✍️ My Articles: I write articles on my LinkedIn and my [personal blog platfrom](https://zain-gxa8hshhdjf4cmbh.francecentral-01.azurewebsites.net/blogs) every now and then to share insights, tutorials, and lessons learned on cloud architecture, full-stack development, and cybersecurity.
 
 
